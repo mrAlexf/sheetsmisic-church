@@ -1,2 +1,6 @@
 mylifegood@mail.ru
-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
+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
+
+git config --global core.quotepath off
+git config --global core.safecrlf warn
+git config --global core.autocrlf true
