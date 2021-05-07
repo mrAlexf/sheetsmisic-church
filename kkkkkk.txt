@@ -1,5 +1,5 @@
 mylifegood@mail.ru
-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
+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
 
 git config --global core.quotepath off
 git config --global core.safecrlf warn
